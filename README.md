@@ -9,7 +9,8 @@
 ## git push origin -d test 
 ## git push origin -d dev 
 
-
+# /// list tag 
+## git tag 
 # /// remove tag locally tagname is v1 
 ## git tag -d v1
 # /// remove tag remotely tagname is v1 
